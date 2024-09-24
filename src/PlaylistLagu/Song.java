@@ -1,8 +1,8 @@
 package PlaylistLagu;
 
 public class Song {
-    String title; // Judul lagu
-    Song next;    // Referensi ke lagu berikutnya
+    String title;
+    Song next;
 
     // Konstruktor
     public Song(String title) {
